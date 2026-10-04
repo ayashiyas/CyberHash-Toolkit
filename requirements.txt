@@ -1,0 +1,5 @@
+# CyberHash Toolkit's core/ package is standard-library only.
+# Flask is only needed for the web UI (api/) and its Vercel deployment.
+# pytest is only needed to run the test suite.
+flask>=3.0
+pytest>=7.0

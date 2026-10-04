@@ -1,0 +1,55 @@
+# Sample wordlist for CyberHash Toolkit's educational wordlist-attack demo.
+# These are commonly known weak/reused passwords, included purely to show
+# why unsalted fast hashes fall quickly to a dictionary. Swap in your own
+# file (--wordlist path) for classroom exercises.
+123456
+password
+123456789
+12345678
+12345
+qwerty
+abc123
+password1
+111111
+123123
+letmein
+welcome
+monkey
+login
+admin
+dragon
+master
+hello
+freedom
+whatever
+qazwsx
+trustno1
+sunshine
+iloveyou
+princess
+football
+baseball
+shadow
+superman
+michael
+ninja
+mustang
+starwars
+computer
+internet
+service
+password123
+changeme
+default
+guest
+test
+temp
+secret
+access
+system
+security
+network
+letmein123
+qwerty123
+zxcvbn
+asdfgh
