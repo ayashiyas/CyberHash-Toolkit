@@ -5,7 +5,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Deploy with Vercel](https://img.shields.io/badge/deploy-vercel-black.svg?logo=vercel)](https://vercel.com/new)
 
-**Live demo:** `https://<your-deployment>.vercel.app` ← replace after you deploy (see below)
+**Live demo:** [cyber-hash-toolkit.vercel.app](https://cyber-hash-toolkit.vercel.app)
 
 Learning-focused security utility for hashing, hash identification, and
 hash analysis — available both as a **CLI** and a **web app** sharing the
